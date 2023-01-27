@@ -1,1 +1,1 @@
-This is readme file for Github Course project
+This is readme file for Github and Git Course project 
